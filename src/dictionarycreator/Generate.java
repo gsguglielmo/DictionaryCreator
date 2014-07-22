@@ -934,4 +934,10 @@ public class Generate extends Thread{
         NewJFrame.jTextField2.setEnabled(en);
         NewJFrame.jSpinner1.setEnabled(en);
     }
+    
+    public void ciaopippo()
+    {
+        
+        System.out.println("Hello");
+    }
 }
